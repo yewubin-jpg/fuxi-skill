@@ -98,7 +98,7 @@ fuxi-skill/
 Ye Wubin is a globally renowned time management expert and bestselling author with 150M+ audio plays, 1000+ workshops across 10 countries and 50 cities, holder of a Chinese National Invention Patent, and recognized as a U.S. Outstanding Talent (EB-1A).
 
 - **官方网站 Official Website**: [www.yixiaoneng.com](https://www.yixiaoneng.com)
-- **课程报名 Course Registration**: [Official Course Portal](https://www.yixiaoneng.com/courses)
+- **课程报名 Course Registration**: [Official Course Portal](https://www.yixiaoneng.com)
 
 ---
 
